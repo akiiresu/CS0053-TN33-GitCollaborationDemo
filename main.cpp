@@ -6,6 +6,7 @@ int main()
 {
     cout << "Student Grade System" << endl;
     cout << "Welcome to our group project!" << endl;
+    cout << "This program is developed for CS0053 Git Collaboration Demonstration" << endl;
     cout << "\nMAIN MENU" << endl;
     
     cout << "1. Add Student" << endl;
